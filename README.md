@@ -26,9 +26,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+![p2-codepath-2](https://github.com/ikatyal2110/CodePath-Project2-Wordle-Pt2/assets/134458944/c3dc25f8-32dd-4327-a594-af6ca9caed73)
 
 ## Notes
 
