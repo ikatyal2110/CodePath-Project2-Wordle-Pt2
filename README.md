@@ -1,19 +1,19 @@
-# Project 2 - *Name of App Here*
+# Project 2 - *Wordle Pt 2*
 
-Submitted by: **Your Name Here**
+Submitted by: **Ishaan Katyal**
 
-**Name of your app** is an app that ... [TODO] 
+**Wordle Pt 2** is an app that just like the first Wordle project including additional settings. You can change the number of guesses you get, the length of the word to be guessed, as well as an Alien mode functionality.
 
-Time spent: **X** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] User can change the number of letters per row (the length of the goal word)
-- [ ] User can change the numbers of rows on the board (how many guesses allowed)
-- [ ] User can select a new themed set to pull the goal word from
-- [ ] User can select "alien wordle", causing the goal word to change after each guess
+- [X] User can change the number of letters per row (the length of the goal word)
+- [X] User can change the numbers of rows on the board (how many guesses allowed)
+- [X] User can select a new themed set to pull the goal word from
+- [X] User can select "alien wordle", causing the goal word to change after each guess
 
 
 The following **optional** features are implemented:
@@ -36,7 +36,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Ishaan Katyal]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
